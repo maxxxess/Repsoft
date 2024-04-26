@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204826299859",
+    "project_id": "repsoft-8cd5c",
+    "storage_bucket": "repsoft-8cd5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204826299859:android:8133c237e76eaf00e73326",
+        "android_client_info": {
+          "package_name": "com.example.assesment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0kz9cWsWIy8ZvgOGPkzLpM-sUXoIQ8nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
